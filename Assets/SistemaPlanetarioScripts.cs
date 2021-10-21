@@ -16,7 +16,7 @@ public class SistemaPlanetarioScripts : MonoBehaviour
 
     public float separacionT = 2.0f;
 
-    public float velocidadRotacionT = 30.0f;
+    public float velocidadRotacionT = 50.0f;
 
     public float rotacionL = 60;
     public float distanciaL = 2;
@@ -25,7 +25,7 @@ public class SistemaPlanetarioScripts : MonoBehaviour
     public float velocidadRotacionL = 30.0f;
     public float numTierras = 3;
 
-    public int numEstrellas = 200;
+    public int numEstrellas = 150;
 
     public float anchoCampoEstrellas = 300;
 
